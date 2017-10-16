@@ -15,6 +15,7 @@ html {
 
 .container {
   margin-right: auto;
+  background-image: url(../image/unorthodox.jpg);
   margin-left: auto;
   padding-right: 15px;
   padding-left: 15px;
