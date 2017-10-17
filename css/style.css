@@ -45,9 +45,3 @@ border-spacing: 3px;
   color: black;
   position: relative;
 }
-#wrap ul a{
-  display: block;
-  text-decoration: none;
-  padding-left: 0 12px;
-
-}
