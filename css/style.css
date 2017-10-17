@@ -1,21 +1,11 @@
-p {
-  font-family: serif;
-  color: white;
 
-	}
 
-body {
-    /*background colour: orange;*/
-    font-family: sans-serif;
-    text-align: center;
-}
-
-ul {
+ul{
   list-style-type: none;
-  margin: 0;
-  padding: 0;
+  margin: 6px;
+  padding: 10px;
   overflow: hidden;
-  color: white;
+  color: black;
 
 }
 
@@ -31,6 +21,10 @@ li a {
   text-decoration: none;
 }
 
+li a:hover {
+  background-color: white;
+}
+
 .name {
   position: relative;
   padding-left: 700px;
@@ -38,5 +32,22 @@ li a {
 }
 
 .name p{
-  margin-left: 40px;
+  padding: left: 40px;
+}
+.border{
+border-spacing: 3px;
+}
+#wrap ul{
+  list-style-type: none;
+  margin: 6px;
+  padding: 10px;
+  /*overflow: hidden;*/
+  color: black;
+  position: relative;
+}
+#wrap ul a{
+  display: block;
+  text-decoration: none;
+  padding-left: 0 12px;
+
 }
