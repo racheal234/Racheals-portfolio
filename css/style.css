@@ -30,6 +30,8 @@ ul.menu>li>a{
 
 body {
 background-image: url(../images/clock2.gif);
+background-repeat: no-repeat;
+b
 font-family: 'Pacifico', cursive;
 font-family: 'Dancing Script', cursive;
 }
